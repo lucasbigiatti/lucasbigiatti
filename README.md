@@ -71,6 +71,10 @@ class LucasBigiatti:
   <a href="https://github.com/lucasbigiatti/Sae">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasbigiatti&repo=Sae&theme=tokyonight" />
   </a
+   <a href="[https://github.com/lucasbigiatti/Sae](https://github.com/joaquin-papagianacopoulos/analisis_de_sentimiento_AI)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasbigiatti&repo=Sae&theme=tokyonight" />
+  </a
+  
 
   
 </div>
